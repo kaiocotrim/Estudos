@@ -39,4 +39,4 @@ function validarCpf(cpf) {
 }
 
 
-console.log(validarCpf("544.512.588-20"))
+console.log(validarCpf("000.995.085-08"))
